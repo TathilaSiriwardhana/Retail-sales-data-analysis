@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Raw data (can be re-downloaded)
+data/raw/
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
