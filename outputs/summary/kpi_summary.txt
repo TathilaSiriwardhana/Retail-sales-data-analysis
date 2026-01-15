@@ -1,0 +1,7 @@
+
+Retail Sales Analysis Summary
+
+Total Revenue: 456,000
+Average Transaction Value: 456.00
+Total Transactions: 1000
+Unique Customers: 1000
